@@ -9,10 +9,6 @@
 Debajyoti Ghosh is a passionate software engineer specializing in JavaScript and frontend development.
             
 
-### Streetcred:
-
-<a href="https://www.tublian.com/profile/DGRYZER?ss=true"><img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/DGRYZER?type=without_score"></a>
-
 ### My Stack:
 
 ### <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/JavaScript"/> <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Frontend"/>
@@ -23,7 +19,7 @@ Debajyoti Ghosh is a passionate software engineer specializing in JavaScript and
 
 ### Links:
 
-### <a href="https://www.github.com/DGRYZER">github</a> | <a href="">linkedin</a>
+### <a href="https://convolexa-2503.web.app/">WEBSITE</a> |<a href="mailto:debajyotighosh200017@gmail.com">GMAIL</a> | <a href="https://www.github.com/DGRYZER">GITHUB</a> | <a href="https://www.linkedin.com/in/dgryzer/">LINKEDIN</a>
 
 ## 👇 Few things about me
 
