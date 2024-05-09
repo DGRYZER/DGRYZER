@@ -11,11 +11,8 @@ Debajyoti Ghosh is a passionate software engineer specializing in JavaScript and
 
 ### My Stack:
 
-### <img src="https://placehold.it/200x100?text=HTML"/> 
-<img src="https://placehold.it/200x100?text=CSS"/> 
-<img src="https://placehold.it/200x100?text=JavaScript"/> 
-<img src="https://placehold.it/200x100?text=React%20JS"/> 
-<img src="https://placehold.it/200x100?text=Frontend"/>
+### <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/HTML"/> <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/CSS"/> <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/JAVASCRIPT"/> <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/REACT JS"/> <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/NODE JS"/> <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/MONGO DB"/> <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/SQL"/> <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/AWS"/> <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Frontend DEVELOPMENT"/> <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/WEB DEVELOPMENT"/> <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/UI DEVELOPMENT"/>
+
 
 ### 
 
