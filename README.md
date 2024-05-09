@@ -1,5 +1,4 @@
 ## Hi 👋
-
 # Meet DEBAJYOTI GHOSH 😎😎😎
 
 ### Bio:
