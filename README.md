@@ -5,7 +5,7 @@
 
 ### Bio:
 
-### *Debajyoti Ghosh, a fervent software engineer, excels in JavaScript, frontend development, and Database Management Systems. His work resonates with elegance, reflecting a dedication to excellence and innovation.*            
+### *In the vibrant tapestry of technology, Debajyoti Ghosh, a passionate software artisan and Frontend Developer, seamlessly blends expertise in JavaScript, React JS, Node JS, Mongo DB, SQL, and AWS. With captivating interfaces and a fervent commitment to innovation, he forges ahead, eager to collaborate and shape the digital landscape.*            
 
 ### My Stack:
 
@@ -20,15 +20,4 @@
 
 ### <a href="https://convolexa-2503.web.app/">WEBSITE</a> | <a href="mailto:debajyotighosh200017@gmail.com">GMAIL</a> | <a href="https://www.github.com/DGRYZER">GITHUB</a> | <a href="https://www.linkedin.com/in/dgryzer/">LINKEDIN</a>
 
-## 👇 Few things about me
-
-
-<div>
-
-            
-
-### summary
-*As a Frontend Developer experienced in JavaScript, React JS, Node JS, Mongo DB, SQL & AWS, I excel in crafting engaging interfaces. Eager to innovate, I seek collaboration to shape the digital future with cutting-edge technologies.*
-
-            
-</div>
+## *THANK YOU* 🤪🤪🤪
