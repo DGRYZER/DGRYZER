@@ -2,7 +2,6 @@
 # Meet DEBAJYOTI GHOSH 😎😎😎
 
 ### Bio:
-
 ### *In the vibrant tapestry of technology, Debajyoti Ghosh, a passionate software artisan and Frontend Developer, seamlessly blends expertise in JavaScript, React JS, Node JS, Mongo DB, SQL, and AWS. With captivating interfaces and a fervent commitment to innovation, he forges ahead, eager to collaborate and shape the digital landscape.*            
 
 ### My Stack:
