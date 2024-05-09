@@ -15,8 +15,6 @@
 
 ### 
 
-### Links:
-
-### <a href="https://convolexa-2503.web.app/">WEBSITE</a> | <a href="mailto:debajyotighosh200017@gmail.com">GMAIL</a> | <a href="https://www.github.com/DGRYZER">GITHUB</a> | <a href="https://www.linkedin.com/in/dgryzer/">LINKEDIN</a>
+### Links:  <a href="https://convolexa-2503.web.app/">WEBSITE</a> | <a href="mailto:debajyotighosh200017@gmail.com">GMAIL</a> | <a href="https://www.github.com/DGRYZER">GITHUB</a> | <a href="https://www.linkedin.com/in/dgryzer/">LINKEDIN</a>
 
 ## *THANK YOU* 🤪🤪🤪
