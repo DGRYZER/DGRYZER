@@ -30,7 +30,7 @@ Debajyoti Ghosh is a passionate software engineer specializing in JavaScript and
             
 
 ### summary
-*Debajyoti Ghosh is a passionate software engineer specializing in JavaScript and frontend development.*
+*As a Frontend Developer experienced in JavaScript, React JS, Node JS, Mongo DB, SQL & AWS, I excel in crafting engaging interfaces. Eager to innovate, I seek collaboration to shape the digital future with cutting-edge technologies.*
 
             
 </div>
