@@ -15,6 +15,6 @@
 
 ### 
 
-### Connect with ME:  <a href="https://convolexa-2503.web.app/">WEBSITE</a> | <a href="mailto:debajyotighosh200017@gmail.com">GMAIL</a> | <a href="https://www.instagram.com/dgr__debajyoti/?next=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fedit%2F%3F__coig_login%3D1">INSTAGRAM</a> | <a href="https://www.linkedin.com/in/dgryzer/">LINKEDIN</a> | <a href="https://twitter.com/DgRyzer">TWITTER</a>
+### Connect with ME:  *<a href="https://convolexa-2503.web.app/">WEBSITE</a>* | *<a href="mailto:debajyotighosh200017@gmail.com">GMAIL</a>* | *<a href="https://www.instagram.com/dgr__debajyoti/?next=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fedit%2F%3F__coig_login%3D1">INSTAGRAM</a>* | *<a href="https://www.linkedin.com/in/dgryzer/">LINKEDIN</a>* | *<a href="https://twitter.com/DgRyzer">TWITTER</a>*
 
 ## *THANK YOU* 🤪🤪🤪
