@@ -5,8 +5,7 @@
 
 ### Bio:
 
-Debajyoti Ghosh is a passionate software engineer specializing in JavaScript and frontend development.
-            
+### Debajyoti Ghosh, a fervent software engineer, excels in JavaScript, frontend development, and Database Management Systems. His work resonates with elegance, reflecting a dedication to excellence and innovation.            
 
 ### My Stack:
 
