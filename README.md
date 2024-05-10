@@ -8,7 +8,7 @@
 
 ###Sure, I'll link each image with an anchor tag.
 
-```html
+
 <a href="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/HTML">
   <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/HTML" alt="HTML">
 </a>
@@ -56,7 +56,7 @@
 <a href="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/MERN">
   <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/MERN" alt="MERN">
 </a>
-```
+
 
 Each image is now wrapped in an anchor tag (`<a>`) with its respective URL as the `href` attribute.
 
