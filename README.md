@@ -1,7 +1,7 @@
 ### Hi 👋
 # Meet DEBAJYOTI GHOSH 😎😎😎
 
-### *Salesforce Developer | Admin & Apex Expertise | Proficient in JavaScript, React, Node.js, MongoDB, SQL, AWS | Dedicated to building seamless digital solutions and fueling innovation.*            
+### *Salesforce Admin & Apex beginner | Proficient in JavaScript, React, Node.js, MongoDB, SQL, AWS | Dedicated to building seamless digital solutions and fueling innovation.*            
 
 ### My Stack:
 
