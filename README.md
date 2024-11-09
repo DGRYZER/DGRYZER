@@ -1,7 +1,7 @@
 ### Hi 👋
 # Meet DEBAJYOTI GHOSH 😎😎😎
 
-<img align="right" src="https://github.com/DGRYZER/DGRYZER/blob/main/IMG20241012213905_1-photoaidcom-cropped.png" width="165" height="180">
+<img align="right" src="https://github.com/DGRYZER/DGRYZER/blob/main/IMG20241012213905_1-photoaidcom-cropped.png" width="175" height="180">
 
 ### 
 🌟 **Salesforce Admin & Apex Beginner.**  
