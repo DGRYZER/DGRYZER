@@ -1,7 +1,7 @@
 ### Hi 👋
 # Meet DEBAJYOTI GHOSH 😎😎😎
 
-<img align="right" src="https://github.com/DGRYZER/DGRYZER/blob/main/IMG20241012213905_1.png" width="230" height="250" style="border-radius: 100px;">
+<img align="right" src="https://github.com/DGRYZER/DGRYZER/blob/main/IMG20241012213905_1.png" width="180" height="200" style="border-radius: 100px;">
 
 ### *Salesforce Admin & Apex beginner | Proficient in JavaScript, React, Node.js, MongoDB, SQL, AWS | Dedicated to building seamless digital solutions and fueling innovation.*            
 
