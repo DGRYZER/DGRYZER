@@ -1,7 +1,7 @@
 ### Hi 👋
 # Meet DEBAJYOTI GHOSH 😎😎😎
 
-<img align="right" src="https://github.com/DGRYZER/DGRYZER/blob/main/IMG20241012213905_1.png" width="160" height="180" style="border-radius: 100px;">
+<img align="right" src="https://github.com/DGRYZER/DGRYZER/blob/main/IMG20241012213905_1.png" width="165" height="180" style="border-radius: 100px;">
 
 ### *Salesforce Admin & Apex beginner with a strong foundation in JavaScript, React, Node.js, MongoDB, SQL, and AWS. Passionate about developing innovative, seamless digital solutions that enhance user experiences. Committed to leveraging my skills to drive growth and contribute to cutting-edge projects in the Salesforce ecosystem.*            
 
