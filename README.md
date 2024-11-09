@@ -2,7 +2,7 @@
 # Meet DEBAJYOTI GHOSH 😎😎😎
 
 ## Bio:
-### *In the vibrant tapestry of technology, Debajyoti Ghosh, a passionate software artisan and Frontend Developer, seamlessly blends expertise in JavaScript, React JS, Node JS, Mongo DB, SQL, and AWS. With captivating interfaces and a fervent commitment to innovation, he forges ahead, eager to collaborate and shape the digital landscape.*            
+### *Salesforce Developer with a passion for innovation and growth. Experienced in Salesforce Admin and Apex, with a solid foundation in JavaScript, React, Node.js, MongoDB, SQL, and AWS. I’m driven to craft seamless user experiences and excited to work alongside creative teams to shape the digital future.*            
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ### My Stack:
