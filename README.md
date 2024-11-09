@@ -3,7 +3,8 @@
 
 <img align="right" src="https://github.com/DGRYZER/DGRYZER/blob/main/IMG20241012213905_1.png" width="165" height="180">
 
-### **Salesforce Admin & Apex Beginner** 🌟  
+### 
+🌟 **Salesforce Admin & Apex Beginner**  
 ✨ **Skilled in JavaScript, React, Node.js, MongoDB, SQL, AWS**  
 🚀 **Passionate about creating innovative, seamless digital solutions**  
 🔍 **Focused on enhancing user experiences & driving growth**  
