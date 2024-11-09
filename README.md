@@ -5,7 +5,7 @@
 
 ### 
 🌟 **Salesforce Admin & Apex Beginner.**  
-💡 ** Committed to learning & contributing to impactful Salesforce projects.**  
+💡  **Committed to learning & contributing to impactful Salesforce projects.**  
 ✨ **Skilled in JavaScript, React, Node.js, MongoDB, SQL, AWS.**  
 🚀 **Passionate about creating innovative, seamless digital solutions.**  
 🔍 **Focused on enhancing user experiences & driving growth.**  
