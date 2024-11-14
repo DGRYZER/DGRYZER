@@ -17,7 +17,7 @@
 ```javascript
 const DEBAJYOTI = {
     pronouns: "He" | "Him",
-    code: ["Salesforce Apex", "JavaScript", "ReactJS", "MongoDB", "Oracle SQL", "NodeJS", "AWS", "Java"],
+    code: ["Salesforce Admin & Apex", "JavaScript", "ReactJS", "MongoDB", "Oracle SQL", "NodeJS", "AWS", "Java"],
     askMeAbout: ["Web Dev", "FullStack Dev"],
     technologies: {
         frontEnd: {
