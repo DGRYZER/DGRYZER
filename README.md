@@ -17,27 +17,29 @@
 ```javascript
 const DEBAJYOTI = {
     pronouns: "He" | "Him",
-    code: ["Salesforce Admin & Apex", "JavaScript", "ReactJS", "MongoDB", "Oracle SQL", "NodeJS", "AWS", "Java"],
-    askMeAbout: ["Web Dev", "FullStack Dev"],
+    code: ["Salesforce Admin", "Apex", "CPQ", "RLM"
+            "JavaScript", "ReactJS", "MongoDB", "Oracle SQL", "NodeJS", "AWS", "Java"],
+    askMeAbout: ["APEX", "Salesforce CPQ" , "Web Dev", "Frontend Dev", "Oracle SQL", "Mongo DB"],
     technologies: {
+        salesforce: {
+            coding: ["Apex"],
+            declarative-development: ["Admin", "CPQ", "RLM"],
+        },
         frontEnd: {
             js: ["ReactJS"],
             css: ["Tailwind", "Bootstrap"],
-        },
-        backEnd: {
-            js: ["Node", "Express"],
         },
         cloudServices: {
             aws: ["EC2", "S3", "Lambda"],
         },
         databases: ["MongoDB", "Oracle SQL"],
-        misc: ["Salesforce Lightning", "Salesforce Apex"],
+        misc: ["nodejs"],
        },
     },
     currentFocus: "Leading a way in Salesforce.",
     funFact: "Dark mode isn’t just a preference; it’s a lifestyle.😎"
 };
 ```
-### Connect with ME:    *<a href="https://convolexa-2503.web.app/">WEBSITE</a>* | *<a href="mailto:debajyotighosh200017@gmail.com">GMAIL</a>* | *<a href="https://www.instagram.com/dgr__debajyoti/?next=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fedit%2F%3F__coig_login%3D1">INSTAGRAM</a>* | *<a href="https://www.linkedin.com/in/dgryzer/">LINKEDIN</a>* | *<a href="https://twitter.com/DgRyzer">TWITTER</a>*
+### Connect with ME:    *<a href="https://debajyotighosh-25.web.app/">WEBSITE</a>* | *<a href="mailto:debajyotighosh200017@gmail.com">GMAIL</a>* | *<a href="https://www.linkedin.com/in/dgryzer/">LINKEDIN</a>* | *<a href="https://twitter.com/DgRyzer">TWITTER</a>*
 
 ## *THANK YOU* 🤪🤪🤪
