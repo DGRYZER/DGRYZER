@@ -40,6 +40,6 @@ const DEBAJYOTI = {
     funFact: "Dark mode isn’t just a preference; it’s a lifestyle.😎"
 };
 ```
-### Connect with ME:    *<a href="https://debajyotighosh-25.web.app/">WEBSITE</a>* | *<a href="mailto:debajyotighosh200017@gmail.com">GMAIL</a>* | *<a href="https://www.linkedin.com/in/dgryzer/">LINKEDIN</a>* | *<a href="https://twitter.com/DgRyzer">TWITTER</a>*
+### Connect with ME:    *<a href="https://debajyotighosh-25.web.app/">WEBSITE</a>* | *<a href="mailto:debajyotighosh200017@gmail.com">GMAIL</a>* | *<a href="https://www.linkedin.com/in/dgryzer/">LINKEDIN</a>*
 
 ## *THANK YOU* 🤪🤪🤪
