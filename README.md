@@ -17,8 +17,8 @@
 ```javascript
 const DEBAJYOTI = {
     pronouns: "He" | "Him",
-    code: ["Salesforce Admin", "Apex", "CPQ", "RLM"
-            "JavaScript", "ReactJS", "MongoDB", "Oracle SQL", "NodeJS", "AWS", "Java"],
+    software_development: ["Salesforce Admin", "Apex", "CPQ", "RLM"
+            "JavaScript", "ReactJS", "MongoDB", "Oracle SQL", "AWS", "Java"],
     askMeAbout: ["APEX", "Salesforce CPQ" , "Web Dev", "Frontend Dev", "Oracle SQL", "Mongo DB"],
     technologies: {
         salesforce: {
