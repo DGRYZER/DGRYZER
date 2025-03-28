@@ -6,7 +6,7 @@
 ###
 🌟 **Salesforce Admin & Apex intermediate level, CPQ & RLM learner.**  
 💡  **Committed to learning & contributing to impactful Salesforce projects.**  
-✨ **Skilled in JavaScript, React, Node.js, MongoDB, SQL, AWS.**  
+✨ **Skilled in JavaScript, React.**  
 🚀 **Passionate about creating innovative, seamless digital solutions.**  
 🔍 **Focused on enhancing user experiences & driving growth.**  
 🤝 **Excited to collaborate and transform business processes.**
