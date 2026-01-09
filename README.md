@@ -4,7 +4,7 @@
 <img align="right" src="https://github.com/DGRYZER/DGRYZER/blob/main/IMG20241012213905_1-photoaidcom-cropped.png" width="175" height="180">
 
 ###
-🌟 **Salesforce Admin & Apex intermediate level, CPQ & RLM learner.**  
+🌟 **Salesforce Admin & Apex intermediate level, RLM Developer.**  
 💡  **Committed to learning & contributing to impactful Salesforce projects.**  
 ✨ **Skilled in JavaScript, React.**  
 🚀 **Passionate about creating innovative, seamless digital solutions.**  
