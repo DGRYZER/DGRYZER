@@ -19,7 +19,7 @@ const DEBAJYOTI = {
     pronouns: "He" | "Him",
     software_development: ["Salesforce Admin", "Apex", "RLM", "Salesforce Integration",
             "JavaScript", "ReactJS", "MongoDB", "Oracle SQL", "AWS", "Java"],
-    askMeAbout: ["APEX", "Salesforce CPQ" , "Web Dev", "Frontend Dev", "Oracle SQL", "Mongo DB"],
+    askMeAbout: ["APEX", "Salesforce RLM" , "Web Dev", "Frontend Dev", "Oracle SQL", "Mongo DB"],
     technologies: {
         salesforce: {
             coding: ["Apex"],
