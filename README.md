@@ -23,7 +23,7 @@ const DEBAJYOTI = {
     technologies: {
         salesforce: {
             coding: ["Apex"],
-            declarative-development: ["Admin", "CPQ", "RLM"],
+            declarative-development: ["Admin", "RLM"],
         },
         frontEnd: {
             js: ["ReactJS"],
