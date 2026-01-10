@@ -25,7 +25,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=DGRYZER&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Dev Quote
-<img width="1622" height="406" alt="Gemini_Generated_Image_2b7nk2b7nk2b7nk2" src="https://github.com/user-attachments/assets/26b17103-62c9-4946-bdec-6e5bb0cf7d5d" />
+<img width="1468" height="352" alt="ChatGPT Image Jan 10, 2026, 07_17_41 PM" src="https://github.com/user-attachments/assets/e10b176b-32aa-4682-86e7-61f259db87a1" />
 
 
 
