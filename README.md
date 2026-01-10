@@ -2,9 +2,10 @@
 
 <img align="right" src="https://github.com/user-attachments/assets/660e2c2c-7524-4449-90bb-91f51e06e243" alt="Debajyoti Ghosh" width="150" height="150" style="border-radius: 50%; border: 3px solid #fff; margin-left: 20px;" />
 
-<h2 style="text-decoration: none; border-bottom: none;"><strong>Hi 👋</strong></h2>
-<h1 style="text-decoration: none; border-bottom: none;"><strong>Meet DEBAJYOTI GHOSH 😎😎😎</strong></h1>
-
+<div style="text-decoration: none;">
+  <h2><strong>Hi 👋</strong></h2>
+  <h1><strong>Meet DEBAJYOTI GHOSH 😎😎😎</strong></h1>
+</div>
 <br/><br/>
 
 ## 💻 Tech Stack:
