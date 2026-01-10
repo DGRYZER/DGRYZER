@@ -3,8 +3,8 @@
 <img align="right" src="https://github.com/user-attachments/assets/660e2c2c-7524-4449-90bb-91f51e06e243" alt="Debajyoti Ghosh" width="150" height="150" style="border-radius: 50%; border: 3px solid #fff; margin-left: 20px;" />
 
 
-** Hi 👋 **
-** Meet DEBAJYOTI GHOSH 😎😎😎 **
+**Hi 👋**
+**Meet DEBAJYOTI GHOSH 😎😎😎**
 
 <br/><br/>
 
