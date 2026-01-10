@@ -21,8 +21,12 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=DGRYZER&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DGRYZER&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DGRYZER&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🏆 GitHub Achievements
+<img width="184" height="183" alt="Pull Shark" src="https://github.com/user-attachments/assets/cc45ad2c-c0e9-4780-8d13-1b20fa085325" />
+<img width="183" height="183" alt="Pair Extraordinaire" src="https://github.com/user-attachments/assets/c91a75f6-708d-4a9a-a467-46be3171bb7d" />
+
+
+
 
 ### ✍️ Dev Quote
 <img width="1445" height="242" alt="Dev Fun Fact" src="https://github.com/user-attachments/assets/edc168cd-783c-4763-b37d-ecf25a95f663" />
