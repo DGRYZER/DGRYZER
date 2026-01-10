@@ -1,7 +1,7 @@
 ### 💫 About Me:
 ## Hi 👋<br>
 ## Meet DEBAJYOTI GHOSH 😎😎😎
-<br><br><br>
+<br>
 🌟 Salesforce Admin & Apex intermediate level, RLM Developer.<br>
 💡 Committed to learning & contributing to impactful Salesforce projects.<br>
 ✨ Skilled in JavaScript, React.<br>🚀 Passionate about creating innovative, seamless digital solutions.<br>
