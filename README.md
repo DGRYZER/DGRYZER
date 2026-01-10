@@ -25,7 +25,7 @@
 <img width="150" height="149" alt="Pull Shark" src="https://github.com/user-attachments/assets/cc45ad2c-c0e9-4780-8d13-1b20fa085325" />
 <img width="150" height="149" alt="Pair Extraordinaire" src="https://github.com/user-attachments/assets/c91a75f6-708d-4a9a-a467-46be3171bb7d" />
 
-### ✍️ Dev Quote
+## ✍️ Dev Quote
 <img width="1445" height="242" alt="Dev Fun Fact" src="https://github.com/user-attachments/assets/edc168cd-783c-4763-b37d-ecf25a95f663" />
 
 # Thank You 🫠
