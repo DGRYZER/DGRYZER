@@ -25,29 +25,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=DGRYZER&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Dev Quote
-<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-
-  <rect x="10" y="10" rx="20" ry="20" width="880" height="200"
-        fill="rgb(10,15,11)" stroke="white" stroke-width="2"/>
-
-  <!-- moved from x=50 to x=40 -->
-  <text x="40" y="120"
-        fill="rgb(98,178,125)"
-        font-size="28"
-        font-style="italic"
-        filter="url(#glow)">
-    “Behind Every Powerful App, There is a Developer who Forgot to Sleep.”
-  </text>
-</svg>
+<img width="1622" height="406" alt="Gemini_Generated_Image_2b7nk2b7nk2b7nk2" src="https://github.com/user-attachments/assets/26b17103-62c9-4946-bdec-6e5bb0cf7d5d" />
 
 
 
