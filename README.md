@@ -13,12 +13,12 @@
 
 ## 💻 Tech Stack:
 
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=https://ik.imagekit.io/DebajyotiG/Other/Salesforce%20Logo.png&logoColor=white)
-![Apex](https://img.shields.io/badge/Apex-0070D2?style=for-the-badge&logo=https://ik.imagekit.io/DebajyotiG/Other/Salesforce%20Logo.png&logoColor=white)
-![SOQL](https://img.shields.io/badge/SOQL-005FB2?style=for-the-badge&logo=https://ik.imagekit.io/DebajyotiG/Other/Salesforce%20Logo.png&logoColor=white)
-![RLM](https://img.shields.io/badge/RLM-004C97?style=for-the-badge&logo=https://ik.imagekit.io/DebajyotiG/Other/Salesforce%20Logo.png&logoColor=white)
-![REST%20%7C%20SOAP%20APIs](https://img.shields.io/badge/REST%20%7C%20SOAP%20APIs-003B7A?style=for-the-badge&logo=https://ik.imagekit.io/DebajyotiG/Other/Salesforce%20Logo.png&logoColor=white)
-![Data%20Loader](https://img.shields.io/badge/Data%20Loader-002D62?style=for-the-badge&logo=https://ik.imagekit.io/DebajyotiG/Other/Salesforce%20Logo.png&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-0070D2?style=for-the-badge&logo=Salesforce&logoColor=white)
+![SOQL](https://img.shields.io/badge/SOQL-005FB2?style=for-the-badge&logo=Salesforce&logoColor=white)
+![RLM](https://img.shields.io/badge/RLM-004C97?style=for-the-badge&logo=Salesforce&logoColor=white)
+![REST%20%7C%20SOAP%20APIs](https://img.shields.io/badge/REST%20%7C%20SOAP%20APIs-003B7A?style=for-the-badge&logo=Salesforce&logoColor=white)
+![Data%20Loader](https://img.shields.io/badge/Data%20Loader-002D62?style=for-the-badge&logo=Salesforce&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) <!--//////////////////// Break //////////////////// -->
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
