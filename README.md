@@ -7,7 +7,7 @@
 
 **Meet DEBAJYOTI GHOSH 😎**
 
-**_Ambition fuels my every step,driving me to design a life on my own terms._**
+**_"Ambition fuels my every step,driving me to design a life on my own terms."_**
 <br/>
 
 
