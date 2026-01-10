@@ -5,23 +5,26 @@
 
 ## 💫 About Me:
 
-<div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-    <div style="text-align: left;">
-      <h2>Hi 👋</h2>
-      <h1>Meet DEBAJYOTI GHOSH 😎😎😎</h1>
-    </div>
-    <div>
-      <img 
-        src="https://github.com/user-attachments/assets/660e2c2c-7524-4449-90bb-91f51e06e243" 
-        alt="Debajyoti Ghosh" 
-        width="150" 
-        height="150" 
-        style="border-radius: 50%; border: 3px solid #fff;"
-      />
-    </div>
-  </div>
-</div>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <br>
+        <h2>Hi 👋</h2>
+        <h1>Meet DEBAJYOTI GHOSH 😎😎😎</h1>
+      </td>
+      <td align="center" width="50%">
+        <img 
+          src="https://github.com/user-attachments/assets/660e2c2c-7524-4449-90bb-91f51e06e243" 
+          alt="Debajyoti Ghosh" 
+          width="150" 
+          height="150" 
+          style="border-radius: 50%; object-fit: cover; border: 3px solid #2d2d2d; box-shadow: 0 0 10px rgba(0,0,0,0.3);"
+        />
+      </td>
+    </tr>
+  </table>
+</p>
 
 
 ## 💻 Tech Stack:
