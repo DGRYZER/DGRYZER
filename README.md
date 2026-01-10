@@ -24,8 +24,19 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DGRYZER&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+### ✍️ Dev Quote
+<div style="width:900px;padding:40px 50px;border-radius:20px;background:rgb(10,15,11);border:2px solid #ffffff;box-shadow:0 0 40px rgba(98,178,125,0.15);font-family:'Segoe UI',Arial,sans-serif;">
+  
+  <div style="color:rgb(98,178,125);font-size:28px;line-height:1.5;font-style:italic;text-shadow:0 0 10px rgba(98,178,125,0.35);">
+    “The act of describing a program in unambiguous detail and the act of programming are one and the same.”
+  </div>
+  
+  <div style="margin-top:25px;text-align:right;color:rgb(98,178,125);font-size:22px;font-weight:500;text-shadow:0 0 10px rgba(98,178,125,0.35);">
+    – Kevlin Henney
+  </div>
+
+</div>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DGRYZER&limit=5&theme=dark&combine_all_yearly_contributions=true)
