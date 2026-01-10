@@ -16,7 +16,7 @@
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 ![Apex](https://img.shields.io/badge/Apex-0070D2?style=for-the-badge&logo=Salesforce&logoColor=white)
 ![SOQL](https://img.shields.io/badge/SOQL-005FB2?style=for-the-badge&logo=Salesforce&logoColor=white)
-![RLM](https://img.shields.io/badge/RLM-004C97?style=for-the-badge&logo=Salesforce&logoColor=white)
+![Revenue Lifecycle Management](https://img.shields.io/badge/RLM-004C97?style=for-the-badge&logo=Salesforce&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-003B7A?style=for-the-badge&logo=Salesforce&logoColor=white)
 ![Data%20Loader](https://img.shields.io/badge/Data%20Loader-002D62?style=for-the-badge&logo=Salesforce&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) <!--//////////////////// Break //////////////////// -->
