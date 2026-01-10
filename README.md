@@ -40,6 +40,13 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
+![Salesforce](https://img.shields.io/badge/Salesforce-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)
+![SOQL](https://img.shields.io/badge/SOQL-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)
+![Salesforce RLM](https://img.shields.io/badge/Revenue%20Lifecycle%20Management-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)
+![Salesforce APIs](https://img.shields.io/badge/REST%20%7C%20SOAP%20APIs-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)
+![Data Loader](https://img.shields.io/badge/Data%20Loader-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Debajyoti.Ghosh.25) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dgr__debajyoti) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dgryzer) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DgRyzer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:debajyotighosh200017@gmail.com) 
 
