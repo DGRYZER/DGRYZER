@@ -25,17 +25,30 @@
 ![](https://github-profile-trophy.vercel.app/?username=DGRYZER&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Dev Quote
-<div style="width:900px;padding:40px 50px;border-radius:20px;background:rgb(10,15,11);border:2px solid #ffffff;box-shadow:0 0 40px rgba(98,178,125,0.15);font-family:'Segoe UI',Arial,sans-serif;">
-  
-  <div style="color:rgb(98,178,125);font-size:28px;line-height:1.5;font-style:italic;text-shadow:0 0 10px rgba(98,178,125,0.35);">
-    “The act of describing a program in unambiguous detail and the act of programming are one and the same.”
-  </div>
-  
-  <div style="margin-top:25px;text-align:right;color:rgb(98,178,125);font-size:22px;font-weight:500;text-shadow:0 0 10px rgba(98,178,125,0.35);">
-    – Kevlin Henney
-  </div>
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
 
-</div>
+  <rect x="10" y="10" rx="20" ry="20" width="880" height="200"
+        fill="rgb(10,15,11)" stroke="white" stroke-width="2"/>
+
+  <!-- moved from x=50 to x=40 -->
+  <text x="40" y="120"
+        fill="rgb(98,178,125)"
+        font-size="28"
+        font-style="italic"
+        filter="url(#glow)">
+    “Behind Every Powerful App, There is a Developer who Forgot to Sleep.”
+  </text>
+</svg>
+
 
 
 ### 🔝 Top Contributed Repo
